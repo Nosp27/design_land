@@ -1,0 +1,152 @@
+[
+  {
+    "path": "static/img/clothes/01.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 4700
+  },
+  {
+    "path": "static/img/clothes/02.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 6700
+  },
+  {
+    "path": "static/img/clothes/03.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 3500
+  },
+  {
+    "path": "static/img/clothes/04.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 5500
+  },
+  {
+    "path": "static/img/clothes/012.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 5900
+  },
+  {
+    "path": "static/img/clothes/013.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 5300
+  },
+  {
+    "path": "static/img/clothes/09.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 4000
+  },
+  {
+    "path": "static/img/clothes/010.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 5300
+  },
+  {
+    "path": "static/img/clothes/014.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 3600
+  },
+  {
+    "path": "static/img/clothes/15.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 5000
+  },
+  {
+    "path": "static/img/clothes/26.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 6500
+  },
+  {
+    "path": "static/img/clothes/011.png",
+    "name": "Женская одежда",
+    "category": "women",
+    "price": 7400
+  },
+  {
+    "path": "static/img/clothes/05.png",
+    "name": "Мужская одежда",
+    "category": "men",
+    "price": 7500
+  },
+  {
+    "path": "static/img/clothes/06.png",
+    "name": "Мужская одежда",
+    "category": "men",
+    "price": 4600
+  },
+  {
+    "path": "static/img/clothes/07.png",
+    "name": "Мужская одежда",
+    "category": "men",
+    "price": 4800
+  },
+  {
+    "path": "static/img/clothes/24.png",
+    "name": "Мужская одежда",
+    "category": "men",
+    "price": 7000
+  },
+  {
+    "path": "static/img/clothes/25.png",
+    "name": "Мужская одежда",
+    "category": "men",
+    "price": 4900
+  },
+  {
+    "path": "static/img/clothes/08.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4200
+  },
+  {
+    "path": "static/img/clothes/16.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4200
+  },
+  {
+    "path": "static/img/clothes/18.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5200
+  },
+  {
+    "path": "static/img/clothes/19.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4400
+  },
+  {
+    "path": "static/img/clothes/20.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4800
+  },
+  {
+    "path": "static/img/clothes/21.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6200
+  },
+  {
+    "path": "static/img/clothes/22.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5500
+  },
+  {
+    "path": "static/img/clothes/23.png",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6000
+  }
+]
