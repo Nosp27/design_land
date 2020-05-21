@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='design_land',
     version='1.0',
-    packages=['design_land'],
+    packages=[''],
     url='',
     license='',
     author='nosp',

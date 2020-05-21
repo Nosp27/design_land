@@ -17,4 +17,4 @@ def form_clothes_dict():
 
 
 if __name__ == '__main__':
-    waitress.serve(app)
+    waitress.serve(app, port=80)
