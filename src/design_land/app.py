@@ -2,6 +2,7 @@ import json
 
 import waitress
 import flask
+from flask import request
 
 app = flask.Flask(__name__, static_url_path="/static", static_folder="static")
 
