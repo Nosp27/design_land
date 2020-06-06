@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Daily Task</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: #0a001f;
+            color: #aaaaaa;
+        }
+
+        .code {
+            font-family: monospace;
+            color: #1c7430;
+        }
+
+        .text {
+            font-size: 16pt;
+        }
+
+        .scheme {
+            background: rgb(115, 113, 150);
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+<h1 style="margin: 5px">На работу!</h1>
+<div class="container">
+    <div class="row">
+        <img src="/static/img/daily/Silicon_valley_title.png">
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <p class="text">
+                Девочка Настя устраивается дата саентистом. Поскольку хед-хантера в этой вселенной нет,
+                Насте приходится пользоваться сарафанным радио. Работает это так:
+                Настя Лелушка приходит в компанию, проходит собеседование, ей предлагают зарплату,
+                и говорят еще несколько вакансий.
+                Надо найти компанию, которая заплатит больше всего.
+                <br>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+        </div>
+        <div class="col-sm-4">
+            <div>
+                <img class="scheme" alt="tree" src="/static/img/daily/illustration1.png">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div>
+                <p class="text">
+                    Чтобы это решить надо скачать файлик по ссылке внизу и "распиклить" его в питоне.
+                    <span class="code">pickle</span> - это "сохранялка" питонячьих объектов.
+                    Загрузить пикл очень просто.<br>
+                    <span class="code">
+                        import pickle<br>
+                        with open('здесь напиши путь к файлу', 'rb') as f:<br>
+                            task_object = pickle.load(f)
+                    </span><br>
+                    Дальше это будет объект у которого
+                </p>
+                <a class="btn btn-primary" style="margin: 40px; width: 100%" href="/static/bin/daily/pickle.pkl" download>
+                    Download Task File
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div>
+                <a class="btn btn-default" style="margin: 40px; width: 100%" href="https://docs.python.org/3/library/pickle.html">
+                    Pickle docs
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
