@@ -3,150 +3,960 @@
     "path": "static/img/clothes/01.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 4700
+    "price": 7400
   },
   {
     "path": "static/img/clothes/02.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 6700
+    "price": 6200
   },
   {
     "path": "static/img/clothes/03.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 3500
+    "price": 5100
   },
   {
     "path": "static/img/clothes/04.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 5500
+    "price": 5800
   },
   {
     "path": "static/img/clothes/012.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 5900
+    "price": 5300
   },
   {
     "path": "static/img/clothes/013.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 5300
+    "price": 4300
   },
   {
     "path": "static/img/clothes/09.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 4000
+    "price": 6600
   },
   {
     "path": "static/img/clothes/010.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 5300
+    "price": 6100
   },
   {
     "path": "static/img/clothes/014.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 3600
+    "price": 7300
   },
   {
     "path": "static/img/clothes/15.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 5000
+    "price": 7100
   },
   {
     "path": "static/img/clothes/26.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 6500
+    "price": 4400
   },
   {
     "path": "static/img/clothes/011.png",
     "name": "Женская одежда",
     "category": "women",
-    "price": 7400
+    "price": 5100
   },
   {
     "path": "static/img/clothes/05.png",
     "name": "Мужская одежда",
     "category": "men",
-    "price": 7500
+    "price": 4500
   },
   {
     "path": "static/img/clothes/06.png",
     "name": "Мужская одежда",
     "category": "men",
-    "price": 4600
+    "price": 5300
   },
   {
     "path": "static/img/clothes/07.png",
     "name": "Мужская одежда",
     "category": "men",
-    "price": 4800
+    "price": 7500
   },
   {
     "path": "static/img/clothes/24.png",
     "name": "Мужская одежда",
     "category": "men",
-    "price": 7000
+    "price": 7100
   },
   {
     "path": "static/img/clothes/25.png",
     "name": "Мужская одежда",
     "category": "men",
-    "price": 4900
+    "price": 7600
+  },
+  {
+    "path": "static/img/clothes/06YAHVRvOBU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4300
   },
   {
     "path": "static/img/clothes/08.png",
     "name": "Унисекс одежда",
     "category": "unisex",
-    "price": 4200
+    "price": 6900
   },
   {
     "path": "static/img/clothes/16.png",
     "name": "Унисекс одежда",
     "category": "unisex",
-    "price": 4200
+    "price": 4500
   },
   {
     "path": "static/img/clothes/18.png",
     "name": "Унисекс одежда",
     "category": "unisex",
-    "price": 5200
+    "price": 6400
   },
   {
     "path": "static/img/clothes/19.png",
     "name": "Унисекс одежда",
     "category": "unisex",
-    "price": 4400
+    "price": 7700
   },
   {
     "path": "static/img/clothes/20.png",
     "name": "Унисекс одежда",
     "category": "unisex",
-    "price": 4800
+    "price": 7100
   },
   {
     "path": "static/img/clothes/21.png",
     "name": "Унисекс одежда",
     "category": "unisex",
-    "price": 6200
+    "price": 7200
   },
   {
     "path": "static/img/clothes/22.png",
     "name": "Унисекс одежда",
     "category": "unisex",
-    "price": 5500
+    "price": 4400
   },
   {
     "path": "static/img/clothes/23.png",
     "name": "Унисекс одежда",
     "category": "unisex",
+    "price": 3900
+  },
+  {
+    "path": "static/img/clothes/51WdvDnWfF8.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6800
+  },
+  {
+    "path": "static/img/clothes/52SSxtH1tSI.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4300
+  },
+  {
+    "path": "static/img/clothes/5TBTedVIRss.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3800
+  },
+  {
+    "path": "static/img/clothes/5aoOc97fXPw.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3800
+  },
+  {
+    "path": "static/img/clothes/62256011_1826121177523710_6290767525332385792_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4800
+  },
+  {
+    "path": "static/img/clothes/62322262_1826121337523694_3476915681268596736_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6700
+  },
+  {
+    "path": "static/img/clothes/62322780_1826120270857134_6531227995317731328_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3800
+  },
+  {
+    "path": "static/img/clothes/62384741_1826119967523831_6100491308659376128_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5300
+  },
+  {
+    "path": "static/img/clothes/62413949_1826121004190394_8246065706257350656_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7000
+  },
+  {
+    "path": "static/img/clothes/62488947_1826120677523760_2940408076257198080_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3800
+  },
+  {
+    "path": "static/img/clothes/62651986_1826120024190492_7479942707150848000_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5800
+  },
+  {
+    "path": "static/img/clothes/63081783_1826120197523808_1848634171367358464_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5700
+  },
+  {
+    "path": "static/img/clothes/63418361_1826119897523838_5876388728426987520_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
     "price": 6000
+  },
+  {
+    "path": "static/img/clothes/64100004_1826120914190403_8700378683879194624_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5400
+  },
+  {
+    "path": "static/img/clothes/64297922_1826121264190368_3155949210415661056_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4900
+  },
+  {
+    "path": "static/img/clothes/64355424_1826121570857004_4310079898640187392_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6300
+  },
+  {
+    "path": "static/img/clothes/64382809_1826121490857012_6320457148190949376_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7600
+  },
+  {
+    "path": "static/img/clothes/64433932_1826120340857127_8306445511850721280_n.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3900
+  },
+  {
+    "path": "static/img/clothes/6BeW69lZglE.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4100
+  },
+  {
+    "path": "static/img/clothes/6KHSsmo207I.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4200
+  },
+  {
+    "path": "static/img/clothes/6SWTV-IZMGQ.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6600
+  },
+  {
+    "path": "static/img/clothes/7oFrW_-ip3Q.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3700
+  },
+  {
+    "path": "static/img/clothes/7puXzX9jP30.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7400
+  },
+  {
+    "path": "static/img/clothes/7x93_f1-nDc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4300
+  },
+  {
+    "path": "static/img/clothes/9FIyV22ABRM.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3600
+  },
+  {
+    "path": "static/img/clothes/9YHumSHXwLc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3500
+  },
+  {
+    "path": "static/img/clothes/9of1aw_D5Qs.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7700
+  },
+  {
+    "path": "static/img/clothes/9yQLUsqLUCg.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4100
+  },
+  {
+    "path": "static/img/clothes/Aw15fQFsK9g.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7500
+  },
+  {
+    "path": "static/img/clothes/C7tmMk-9PQ4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4600
+  },
+  {
+    "path": "static/img/clothes/CO82O_4lRpw.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4500
+  },
+  {
+    "path": "static/img/clothes/Cxv73NXpyy0.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5400
+  },
+  {
+    "path": "static/img/clothes/DDPZEZ73i4I.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3600
+  },
+  {
+    "path": "static/img/clothes/DtIZQ3tPb7o.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6800
+  },
+  {
+    "path": "static/img/clothes/EGZ04urVPa8.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5900
+  },
+  {
+    "path": "static/img/clothes/FDzDCWAjO_w.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5900
+  },
+  {
+    "path": "static/img/clothes/FkD4xxIUW7Q.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7200
+  },
+  {
+    "path": "static/img/clothes/GC0JsTuQC9w.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6100
+  },
+  {
+    "path": "static/img/clothes/GO4zq8S_YQw.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5900
+  },
+  {
+    "path": "static/img/clothes/GhCXUa_tNCU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4700
+  },
+  {
+    "path": "static/img/clothes/Iig-IzZ4qNY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5900
+  },
+  {
+    "path": "static/img/clothes/KloZr7nd29M.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4600
+  },
+  {
+    "path": "static/img/clothes/LkyjZIYVsIk.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5300
+  },
+  {
+    "path": "static/img/clothes/M1MvCWngz40.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4300
+  },
+  {
+    "path": "static/img/clothes/MJKg9zOAfj0.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6700
+  },
+  {
+    "path": "static/img/clothes/MNB67tadZxU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5700
+  },
+  {
+    "path": "static/img/clothes/MQSJxzRvIO4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5000
+  },
+  {
+    "path": "static/img/clothes/MS4AU5vXF4w.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4800
+  },
+  {
+    "path": "static/img/clothes/MwQ37iBpR80.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3600
+  },
+  {
+    "path": "static/img/clothes/NHBRNzcsbH4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6200
+  },
+  {
+    "path": "static/img/clothes/NKUZhMqwLow.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6200
+  },
+  {
+    "path": "static/img/clothes/NTew6Zo7Pbg.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7700
+  },
+  {
+    "path": "static/img/clothes/NhbVywFW40k.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6300
+  },
+  {
+    "path": "static/img/clothes/OKiBnJvGIHw.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6800
+  },
+  {
+    "path": "static/img/clothes/OTp68oTo9c4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5000
+  },
+  {
+    "path": "static/img/clothes/PCes8yaVp1Q.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4400
+  },
+  {
+    "path": "static/img/clothes/PO5TpYgoUbk.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5600
+  },
+  {
+    "path": "static/img/clothes/PRWaVbG3YlE.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6000
+  },
+  {
+    "path": "static/img/clothes/PUMo63sEqAw.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3600
+  },
+  {
+    "path": "static/img/clothes/PfCjizAbaUY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5500
+  },
+  {
+    "path": "static/img/clothes/S63yGEFf-Qo.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6700
+  },
+  {
+    "path": "static/img/clothes/Sxvb6L-JZbI.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7700
+  },
+  {
+    "path": "static/img/clothes/TVkXYUQLk7w.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4000
+  },
+  {
+    "path": "static/img/clothes/TqkN7Gsea6c.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3800
+  },
+  {
+    "path": "static/img/clothes/Uf0lecEbgQg.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5800
+  },
+  {
+    "path": "static/img/clothes/UvycJPKRrqU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7700
+  },
+  {
+    "path": "static/img/clothes/V13rly8t3Oc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7500
+  },
+  {
+    "path": "static/img/clothes/WqGT2_BHEuY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6600
+  },
+  {
+    "path": "static/img/clothes/XLbzPkbkgOY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6100
+  },
+  {
+    "path": "static/img/clothes/YLdR1_Fbv_k.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4900
+  },
+  {
+    "path": "static/img/clothes/YdJg7R58DZs.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5500
+  },
+  {
+    "path": "static/img/clothes/YkGiTaEPP4o.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3900
+  },
+  {
+    "path": "static/img/clothes/YtB9NtIlWt8.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3900
+  },
+  {
+    "path": "static/img/clothes/YuY5hf8cUj4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7100
+  },
+  {
+    "path": "static/img/clothes/Zmh3x5hnMzc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6500
+  },
+  {
+    "path": "static/img/clothes/_8gkjkYb4B8.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6600
+  },
+  {
+    "path": "static/img/clothes/_DjPOfexSDQ.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4500
+  },
+  {
+    "path": "static/img/clothes/_Loi_DuoIiI.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4700
+  },
+  {
+    "path": "static/img/clothes/aPvs1UHdCE8.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4900
+  },
+  {
+    "path": "static/img/clothes/aXIgFWN6TMY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7000
+  },
+  {
+    "path": "static/img/clothes/cbm6EBk4pcA.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4900
+  },
+  {
+    "path": "static/img/clothes/d5druzBzRZU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6900
+  },
+  {
+    "path": "static/img/clothes/eBHkGFDFgOk.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5100
+  },
+  {
+    "path": "static/img/clothes/fL3WKZMLq_E.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5100
+  },
+  {
+    "path": "static/img/clothes/fTznK8sL4XM.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6900
+  },
+  {
+    "path": "static/img/clothes/g-m_7B9Y520.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4300
+  },
+  {
+    "path": "static/img/clothes/goCZsKlqsYo.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3800
+  },
+  {
+    "path": "static/img/clothes/hI0iu-RQlDY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7200
+  },
+  {
+    "path": "static/img/clothes/hb3E-8r7lx4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4400
+  },
+  {
+    "path": "static/img/clothes/hjxXeqvtAdw.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6600
+  },
+  {
+    "path": "static/img/clothes/hvdSz8GLaS4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6600
+  },
+  {
+    "path": "static/img/clothes/i7kj4CINhuc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5100
+  },
+  {
+    "path": "static/img/clothes/iez3dtYazhk.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5900
+  },
+  {
+    "path": "static/img/clothes/ifv9_bMKwcM.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4500
+  },
+  {
+    "path": "static/img/clothes/jlNg9IhXWac.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5500
+  },
+  {
+    "path": "static/img/clothes/k4PRR7ITsxo.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7200
+  },
+  {
+    "path": "static/img/clothes/klFu_nK_tB0.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5700
+  },
+  {
+    "path": "static/img/clothes/ktvshEBiyK0.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5500
+  },
+  {
+    "path": "static/img/clothes/l98VvWZ6Jho.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3900
+  },
+  {
+    "path": "static/img/clothes/lD7WotJJFxg.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4200
+  },
+  {
+    "path": "static/img/clothes/lNNo8UdmgAg.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5300
+  },
+  {
+    "path": "static/img/clothes/lObMeuXOZ0s.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4500
+  },
+  {
+    "path": "static/img/clothes/lq-4tSkJ4Ag.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6400
+  },
+  {
+    "path": "static/img/clothes/lqvRrjrQITU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5500
+  },
+  {
+    "path": "static/img/clothes/lvjPnLEBfyc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7400
+  },
+  {
+    "path": "static/img/clothes/mCdXXCeczi4.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4400
+  },
+  {
+    "path": "static/img/clothes/mH04OyXXdUU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6600
+  },
+  {
+    "path": "static/img/clothes/mX3pPq8X4I8.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7600
+  },
+  {
+    "path": "static/img/clothes/n4NQZMYPD8I.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6800
+  },
+  {
+    "path": "static/img/clothes/nJJZjDupWYc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7100
+  },
+  {
+    "path": "static/img/clothes/npY35VkTniE.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5400
+  },
+  {
+    "path": "static/img/clothes/o5g_8GlPHHU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5100
+  },
+  {
+    "path": "static/img/clothes/oN3wV1jfz5k.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3900
+  },
+  {
+    "path": "static/img/clothes/p6xn3pCO1mo.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6500
+  },
+  {
+    "path": "static/img/clothes/pXxvdQXLkAM.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3600
+  },
+  {
+    "path": "static/img/clothes/pf0gdNLaBzI.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3500
+  },
+  {
+    "path": "static/img/clothes/puSFUkBx2Pk.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4700
+  },
+  {
+    "path": "static/img/clothes/q2kRVfR0n6A.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5700
+  },
+  {
+    "path": "static/img/clothes/qC7pITU9Mrs.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5000
+  },
+  {
+    "path": "static/img/clothes/r6At5vjhdIw.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7300
+  },
+  {
+    "path": "static/img/clothes/rI2dJ5tT-Ug.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7600
+  },
+  {
+    "path": "static/img/clothes/rV0fMzSwfEI.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3700
+  },
+  {
+    "path": "static/img/clothes/rrRMPX2MUwY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6900
+  },
+  {
+    "path": "static/img/clothes/s6AlWXH-xOM.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7000
+  },
+  {
+    "path": "static/img/clothes/sFvFaWA3QsU.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6500
+  },
+  {
+    "path": "static/img/clothes/tztyQdYHSZE.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 5300
+  },
+  {
+    "path": "static/img/clothes/wTKKNOd5lWE.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4100
+  },
+  {
+    "path": "static/img/clothes/wYf3hIhVV0E.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6000
+  },
+  {
+    "path": "static/img/clothes/wazGLvaiby0.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3700
+  },
+  {
+    "path": "static/img/clothes/xle99IcWEo8.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4900
+  },
+  {
+    "path": "static/img/clothes/zINZzktu4jk.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 7200
+  },
+  {
+    "path": "static/img/clothes/zSJ0JwhJ5jM.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 6800
+  },
+  {
+    "path": "static/img/clothes/zcpaisryZNc.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 4200
+  },
+  {
+    "path": "static/img/clothes/zyt0JSU2SJY.jpg",
+    "name": "Унисекс одежда",
+    "category": "unisex",
+    "price": 3800
   }
 ]
